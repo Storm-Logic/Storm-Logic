@@ -1,6 +1,8 @@
 # Storm Logic
 
-Explore my projects:
+## Explore projects
+
+Choose a language badge to open a related repository.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Storm-Logic/Competitive_Pro)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Storm-Logic/Count_Downer)
